@@ -13,7 +13,7 @@ class App extends React.Component {
 		// Verfügbare Variablen für diese Komponente
 		this.state = {
 			name: '',
-			age: 1,
+			alter: 1,
 			email: '',
 			contacts: []
 		};
